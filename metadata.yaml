@@ -4,7 +4,7 @@ contributor:
   translator:
     agent_name: Savine, Albert
     alias: Savine, Alberto
-    birthdate: &id001 1859
+    birthdate: 1859
     deathdate: 1927
     gutenberg_agent_id: '8201'
     url: http://www.gutenberg.org/2009/agents/8201
@@ -18,12 +18,14 @@ creator:
     - Doyle, Sir Arthur Conan
     - Conan Doyle, Arthur, Sir
     - Doyle, A. Conan
-    birthdate: *id001
+    birthdate: 1859
     deathdate: 1930
     gutenberg_agent_id: '69'
     url: http://www.gutenberg.org/2009/agents/69
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18716#Micah-Clarke---Tome-ILes-recrues-de-Monmouth
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-06-29'
 gutenberg_type: Text
