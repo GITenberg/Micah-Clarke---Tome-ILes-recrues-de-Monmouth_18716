@@ -1,0 +1,42 @@
+_repo: Micah-Clarke---Tome-ILes-recrues-de-Monmouth_18716
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Savine, Albert
+    alias: Savine, Alberto
+    birthdate: &id001 1859
+    deathdate: 1927
+    gutenberg_agent_id: '8201'
+    url: http://www.gutenberg.org/2009/agents/8201
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Doyle, Sir Arthur Conan
+    - Conan Doyle, Arthur, Sir
+    - Doyle, A. Conan
+    birthdate: *id001
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18716'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Stuarts, 1603-1714 -- Fiction'
+title: 'Micah Clarke - Tome I
+
+  Les recrues de Monmouth'
+url: http://www.gutenberg.org/ebooks/18716
